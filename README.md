@@ -1,0 +1,3 @@
+# VariablesCSharp
+
+Patika.dev ödevi.
