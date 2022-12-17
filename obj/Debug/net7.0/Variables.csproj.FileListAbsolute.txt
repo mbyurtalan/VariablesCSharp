@@ -1,0 +1,15 @@
+/Users/mert/Desktop/AppDev/CS/Variables/bin/Debug/net7.0/Variables
+/Users/mert/Desktop/AppDev/CS/Variables/bin/Debug/net7.0/Variables.deps.json
+/Users/mert/Desktop/AppDev/CS/Variables/bin/Debug/net7.0/Variables.runtimeconfig.json
+/Users/mert/Desktop/AppDev/CS/Variables/bin/Debug/net7.0/Variables.dll
+/Users/mert/Desktop/AppDev/CS/Variables/bin/Debug/net7.0/Variables.pdb
+/Users/mert/Desktop/AppDev/CS/Variables/obj/Debug/net7.0/Variables.csproj.AssemblyReference.cache
+/Users/mert/Desktop/AppDev/CS/Variables/obj/Debug/net7.0/Variables.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mert/Desktop/AppDev/CS/Variables/obj/Debug/net7.0/Variables.AssemblyInfoInputs.cache
+/Users/mert/Desktop/AppDev/CS/Variables/obj/Debug/net7.0/Variables.AssemblyInfo.cs
+/Users/mert/Desktop/AppDev/CS/Variables/obj/Debug/net7.0/Variables.csproj.CoreCompileInputs.cache
+/Users/mert/Desktop/AppDev/CS/Variables/obj/Debug/net7.0/Variables.dll
+/Users/mert/Desktop/AppDev/CS/Variables/obj/Debug/net7.0/refint/Variables.dll
+/Users/mert/Desktop/AppDev/CS/Variables/obj/Debug/net7.0/Variables.pdb
+/Users/mert/Desktop/AppDev/CS/Variables/obj/Debug/net7.0/Variables.genruntimeconfig.cache
+/Users/mert/Desktop/AppDev/CS/Variables/obj/Debug/net7.0/ref/Variables.dll
